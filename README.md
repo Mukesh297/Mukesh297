@@ -1,7 +1,9 @@
 ## Hi there This is Mukesh 👋
 
 I'm  Data Analyst,
+
 Passionate About Data, Driven by Curiosity...that stand out as >>> Data Science Aficionado ML & Deep Learning Advocate.....
+
 marked by enthusiasm for data science and Machine and Deep learning.
 
 Here are a few things about me:
@@ -12,7 +14,7 @@ Here are a few things about me:
   
 
 ## Skills
-- **Languages:** Python, Pandas,Numpy,Tableau, SQL
+- **Languages:** Python, Pandas,Numpy,Tableau, Excel, SQL
 - **Frameworks:** TensorFlow, 
 - **Tools:** Git
 <!--
