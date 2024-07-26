@@ -1,6 +1,6 @@
 ## Hi there This is Mukesh 👋
 
-I'm  a Chemical Engineer,marked by enthusiasm for data science and machine learning. Here are a few things about me:
+I'm  Data Analyst ,marked by enthusiasm for data science and machine learning. Here are a few things about me:
 
 - 🔭 I’m Intressted in Data analyst and Data science profile.
 - 🌱 I’m currently learning advanced ML and deep learning techniques.
