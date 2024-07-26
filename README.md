@@ -1,10 +1,13 @@
 ## Hi there This is Mukesh 👋
 
-I'm  Data Analyst ,marked by enthusiasm for data science and machine learning. Here are a few things about me:
+I'm  Data Analyst,
+Passionate About Data, Driven by Curiosity...that stand out as >>> Data Science Aficionado ML & Deep Learning Advocate.....
+marked by enthusiasm for data science and Machine and Deep learning.
 
+Here are a few things about me:
 - 🔭 I’m Intressted in Data analyst and Data science profile.
 - 🌱 I’m currently learning advanced ML and deep learning techniques.
-- 💬 Ask me about Python, data analysis, and Machine learning, pharmaceutical 
+- 💬 Ask me about Python, data analysis, and Machine learning, pharmaceutical API
 - 📫 How to reach me: [Email](Mukeshpatidar.nitrr@gmail.com)
   
 
